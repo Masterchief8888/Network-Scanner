@@ -33,6 +33,7 @@ for client in clients:
     print("{:16}{}".format(client['ip'], client['mac']))
     
     AFTER RUNNING MY DEVICE IP ADDRESS WE GET ,
+
     
     
     ![PYTHON](https://user-images.githubusercontent.com/90146929/152850587-95d47420-4739-4627-9f54-b9d80dda9ff8.JPG)
