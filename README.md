@@ -12,12 +12,9 @@ A network scanner is an important element for a network administrator as well as
 
 
 
+CODE :
 
-
-[code.txt](https://github.com/Masterchief8888/Network-Scanner/files/8017835/code.txt)
-
-
-
+[CODE.txt](https://github.com/Masterchief8888/Network-Scanner/files/8017835/code.txt)
 
 
 
@@ -26,6 +23,9 @@ A network scanner is an important element for a network administrator as well as
 
 
 
+
+
+OUTPUT:
 ![PYTHON](https://user-images.githubusercontent.com/90146929/152851166-a0c010ce-0c39-4073-9d64-4a49b0353857.JPG)
 
 
