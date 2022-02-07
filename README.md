@@ -25,7 +25,6 @@ CODE :
 
 
 
-OUTPUT:
 ![PYTHON](https://user-images.githubusercontent.com/90146929/152851166-a0c010ce-0c39-4073-9d64-4a49b0353857.JPG)
 
 
